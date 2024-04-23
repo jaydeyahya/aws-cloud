@@ -6,7 +6,7 @@ What is Cloud Resume Challenge? - [The Cloud Resume Challenge](https://cloudresu
 The project was published by Forrest Brazeal.
 
 ## Architecture
-![Architecture Diagram](/img/AWS-Architecture-Cloud-resume-challenge.png)
+![Architecture Diagram](website/img/AWS-Architecture-Cloud-resume-challenge.png)
 
 **Services Used**:
 
